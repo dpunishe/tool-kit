@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/react": "^14.0.0",
     "@types/react-redux": "^7.1.25",
-    "graphql": "^16.6.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",

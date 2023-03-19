@@ -1,12 +1,12 @@
-import { useState } from 'react'
+import GithubSearchPage from "./components/RepositoryPage"
 
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <div className="App">
-      
+      <GithubSearchPage/>
     </div>
   )
 }
